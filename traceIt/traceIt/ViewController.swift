@@ -1,23 +1,15 @@
 //
 //  ViewController.swift
-//  TraceIt
+//  traceIt
 //
-//  Created by user on 7/11/16.
+//  Created by user on 7/13/16.
 //  Copyright © 2016 CharmmyKittie. All rights reserved.
 //
 
 import UIKit
 
-
-
 class ViewController: UIViewController {
 
-    
-    @IBAction func startButton(sender: AnyObject) {
-        helloKitty.text = "yaaaaay"
-    }
-    @IBOutlet weak var helloKitty: UILabel!
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

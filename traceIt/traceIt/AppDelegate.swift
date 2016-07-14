@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  TraceIt
+//  traceIt
 //
-//  Created by user on 7/11/16.
+//  Created by user on 7/13/16.
 //  Copyright © 2016 CharmmyKittie. All rights reserved.
 //
 
